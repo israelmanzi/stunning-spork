@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "xls-parser"
+version = "0.1.0"
+description = "Parse, format and process xls/csv/xlsx files"
+authors = ["israelmanzi <manziisrael99@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+pydantic = "^2.10.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
