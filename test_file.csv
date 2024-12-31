@@ -1,0 +1,6 @@
+user_id,first_NAME,last_name,contact_number,country_code,display name,email
+101,John,Doe,1234567890,254,John Doe,john.doe@example.com
+102,Jane,Smith,9876543210,1,Jane Smith,jane.smith@example.com
+103,Michael,Johnson,5551234,44,Mike Johnson,mike.johnson@example.co.uk
+104,Alice,Brown,444567890,91,Alice Brown,alice.brown@example.com
+105,Emily,Davis,333222111,33,Emily Davis,emily.davis@example.net

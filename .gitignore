@@ -169,9 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-*.csv
-*.xlsx
-*.xls
 *.csv#
 *.xlsx#
 *.xls#
